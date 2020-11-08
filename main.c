@@ -1,6 +1,1 @@
-#include <stdio.h>
-
-int main(void) {
-  printf("Hello World\n");
-  return 0;
-}
+//refer to GyroJoy for arduino code, snake.py for game
